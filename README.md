@@ -28,13 +28,13 @@ This is a React Native demo application that fetches and displays posts from the
 
 ### Step:
 
-### Step 1: Install Dependencies
+
 ```bash
 npm install
 # or
 yarn install
 
-### Step 2: Build and run your app
+### Build and run your app
 
 With Metro running, open a new terminal window/pane from the root of your React Native project, and use one of the following commands to build and run your Android:
 
